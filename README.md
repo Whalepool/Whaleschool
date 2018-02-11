@@ -27,19 +27,19 @@ Whalepool is a community of bitcoin/crypto traders;
 Whalepool chats are moderated  
   
 **Room specific rules**
-In whalepool ([@whalepoolbtc](https://t.me/whalepoolbtc)) new users are restricted to read only for 2 weeks. - Whalepool content is about mostly bitcoin & very top tier alts, ie; ETH. Any mention of random altcoins will result in your account being restricted to read only or maybe banned.
-In whalepooldojo ([@whalepooldojo]((https://t.me/@whalepooldojo)) all new users are restricted to read only forever - Until you've proven yourself by showing you can make consistent profitable trades with large sums of money
-In Whalepools women ([@whalepoolwomen]((https://t.me/whalepoolwomen)), all users are set to read only until you're account is verified as female. Message the [@whalepoolwomen](https://t.me/whalepoolwomen) modes to verify.
-In shitpool ([@shitpool]((https://t.me/shitpool)) all users have read write permissions from day 1.
+* In whalepool ([@whalepoolbtc](https://t.me/whalepoolbtc)) new users are restricted to read only for 2 weeks. - Whalepool content is about mostly bitcoin & very top tier alts, ie; ETH. Any mention of random altcoins will result in your account being restricted to read only or maybe banned.
+* In whalepooldojo ([@whalepooldojo]((https://t.me/@whalepooldojo)) all new users are restricted to read only forever - Until you've proven yourself by showing you can make consistent profitable trades with large sums of money
+* In Whalepools women ([@whalepoolwomen]((https://t.me/whalepoolwomen)), all users are set to read only until you're account is verified as female. Message the [@whalepoolwomen](https://t.me/whalepoolwomen) modes to verify.
+* In shitpool ([@shitpool]((https://t.me/shitpool)) all users have read write permissions from day 1.
 
 **General rules where you maybe set to read only or banned.** 
-You MUST have a profile picture.
-DO NOT post any spam or referal links.
-DO NOT post old news, duplicate post news, crappy gifs, excessive gifs, crappy stickers, or excessive stickers. Stickers & gifs provide little value to users so their use should be sparse & selected.
-DO NOT post fud, unsubstatiated claims, if you're questioned to cite evidence, please provide some. 
-If you have a low IQ, you will be restricted. We do not want low quality, 'when moon', 'when lambo' comments.
-If your comments are off topic (music videos, trump articles), you will be restricted.
-If you're a newb and asking newb questions, this is the wrong chat 
+* You MUST have a profile picture.
+* DO NOT post any spam or referal links.
+* DO NOT post old news, duplicate post news, crappy gifs, excessive gifs, crappy stickers, or excessive stickers. Stickers & gifs provide little value to users so their use should be sparse & selected.
+* DO NOT post fud, unsubstatiated claims, if you're questioned to cite evidence, please provide some. 
+* If you have a low IQ, you will be restricted. We do not want low quality, 'when moon', 'when lambo' comments.
+* If your comments are off topic (music videos, trump articles), you will be restricted.
+* If you're a newb and asking newb questions, this is the wrong chat 
 
 ### Telegram Rooms  
   
